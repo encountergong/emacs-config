@@ -2,5 +2,5 @@
 !.gitignore
 !/.emacs
 !README.md
-#!/init
+!/init
 
